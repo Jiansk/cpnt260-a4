@@ -5,4 +5,5 @@ author: Jian Villanueva
 Github pages site - 
 
 ### Attributions for code and/or assets you used that are not your own
-- 
+- I looked up some youtube videos for ideas and inspirations about how to style my hero section.
+- I also googled how to apply the background-image and the background-blend-mode.
